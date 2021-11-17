@@ -1,0 +1,29 @@
+[{ 
+    "nama" : "Sandi",
+    "umur" : 28,
+    "nrp" : "c1a160017",
+    "lulus" : true,
+    "hobby" : [
+        "gaming",
+        "coding"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Bambang",
+        "pembimbing2" : "Dadang"
+    } 
+},
+{ 
+    "nama" : "Sendi",
+    "umur" : 28,
+    "nrp" : "c1a160017",
+    "lulus" : true,
+    "hobby" : [
+        "gaming",
+        "coding"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Bambang",
+        "pembimbing2" : "Dadang"
+    } 
+}
+]

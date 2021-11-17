@@ -1,0 +1,46 @@
+{
+    "menu": [
+        {
+            "kategori" : "ayam",
+            "nama" : "Simple set Teriyaki 1",
+            "komposisi" : "SIMPLE SET TERIYAKI 1 + Tehbotol Sosro ",
+            "harga" : "Rp.45.000",
+            "gambar" : "SIMPLE-SET-TERIYAKI-1---TBK-SOSRO_.jpg"
+        },
+        {
+            "kategori" : "ayam",
+            "nama" : "Egg chicken roll wrap 2 Pcs",
+            "komposisi" : "Egg Chicken Roll dibalut dengan Kulit Tortilla yang lembut dengan topping Lettuce dan Sauce Aurora",
+            "harga" : "Rp.22.000",
+            "gambar" : "EGG-CHICKEN-ROLL-WRAP-2.jpg"
+        },
+        {
+            "kategori" : "udang",
+            "nama" : "Ebi furai wrap 2 pcs",
+            "komposisi" : "Ebi Furai dibalut dengan Kulit Tortilla yang lembut dengan topping Lettuce dan Sauce Aurora",
+            "harga" : "Rp.22.000",
+            "gambar" : "EBI-FURAI-WRAP-2.jpg"
+        },
+        {
+            "kategori" : "telur",
+            "nama" : "Tokyo sandwich egg & cheese",
+            "komposisi" : "SANDWICH EGG & CHEESE",
+            "harga" : "Rp.20.000",
+            "gambar" : "TOKYO-SANDWICH-EGG.jpg"
+        },
+        {
+            "kategori" : "ayam",
+            "nama" : "Chizu maki katsu",
+            "komposisi" : "Gulungan daging ayam di topping denga saus mayo pedas",
+            "harga" : "Rp.37.000",
+            "gambar" : "CHIZU-MAKI-KATSU.jpg"
+        },
+        {
+            "kategori" : "sapi",
+            "nama" : "Mini bowl beef teriyaki",
+            "komposisi" : "MINI BOWL BEEF TERIYAKI",
+            "harga" : "Rp.20.000",
+            "gambar" : "MINI-BOWL-BEEF-TERIYAKI.jpg"
+        }
+    ]
+}
